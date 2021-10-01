@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# View the current deployment
+
+[Latest Deployment on GitHub Pages](https://Jabokoe.github.io/Deploying-React).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
